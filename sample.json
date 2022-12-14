@@ -1,0 +1,9 @@
+[
+  {
+    "EventBusName": "simple-lambda-invocation-bus",
+    "DetailType": "sample-type",
+    "Source": "custom",
+    "Time": "2019-11-21T01:22:33Z",
+    "Detail": "{ \"name\": \"hoge\", \"detail\": \"fuga\" }"
+  }
+]
